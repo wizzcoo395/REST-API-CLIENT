@@ -98,6 +98,10 @@ Locate the WeatherClient.java file and run the main method.
 
 ## Sample Output
 
+
+<img width="1746" height="306" alt="Image" src="https://github.com/user-attachments/assets/0675a6fa-648a-496d-bdc8-27baf5e09e49" />
+
+
 ===== Weather Report =====
 Temperature : 30.2 °C
 Wind Speed  : 10.5 km/h
